@@ -25,7 +25,9 @@
 
 8. Finally Run Command:: flask run
 9. Copy The output link which might look like► http://127.0.0.1:5000/ and paste on Chrome
-10. Complete
+10. Ouput Screenshots::
+    [Postgres Output](https://github.com/johntygomes/flask-alchemy-postgres-mysql/blob/master/Output%20Screenshots/PostgresqlPageRendered.PNG)
+    [MYSql Output](https://github.com/johntygomes/flask-alchemy-postgres-mysql/blob/master/Output%20Screenshots/MySqlPageRendered.PNG)
 
 
 
